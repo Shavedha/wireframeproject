@@ -18,10 +18,10 @@ HOME PAGE:
 ![output](./hp1.png)
 
 GALLERY PAGE:
-![OUTPUT](./gallery.png)
+![OUTPUT](./galry2.png)
 
 CONTACTUS PAGE:
-![OUTPUT](./cntus.png)
+![OUTPUT](./cont2.png)
 
 
 ## Result:
